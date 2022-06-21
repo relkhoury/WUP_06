@@ -95,7 +95,10 @@ fisher.test(table2)
 fisherXY(mydata$cappun,mydata$race)
 ```
  
-Because the p-value with the initial Chi-Square test is so low, we will run a FisherExact test to gain more information.  
+Because the p-value with the initial Chi-Square test is so low, we will run a FisherExact test to gain more information. 
+
+
+Running the FisherXY test yields p-values less than 0.05 between all groups (White/Black, WHITE/OTHER, BLACK/OTHER), implying that there is a significant difference between all of these groups.  The p-value indicates the probability of obtaining certain results wholly due to chance; the smaller it is, the less likely the data in question was "random".  With this statistic, we can reject the null hypothesis in favor of the alternate hypothesis.  
  
  
  
