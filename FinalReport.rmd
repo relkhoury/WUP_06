@@ -95,7 +95,7 @@ fisher.test(table2)
 fisherXY(mydata$cappun,mydata$race)
 ```
  
-
+Because the p-value with the initial Chi-Square test is so low, we will run a FisherExact test to gain more information.  
  
  
  
