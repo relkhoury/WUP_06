@@ -62,7 +62,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-
+In analyzing these graphs, whites again tend to favor the death penalty by a hefty margin of nearly 70%, but the data for the other groups is less decisive.  There is a near 50/50 split among support for black citizens, and "Other" groups seem to support capital punishment in proportions larger than that of the white citizens discussed earlier.  The choice not to omit data containing "N/A" seems to have skewed results.  
 
 ### Numerical Descriptive Results
 
