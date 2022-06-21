@@ -171,6 +171,8 @@ fisherXY(mydata$cappun,mydata$race, printAll = TRUE)
  The p-value obtained from the Chi-Square test was less than .05; to investigate our results further, we will run a FisherXY test.
  
  
+Running the FisherXY test generates p-values lesser than .05 for the comparisons between the WHITE/BLACK and BLACK/OTHER groups, meaning the differences between the two respective groups is statistically significant.  However, a p-value of 1 was calculated for the test between WHITE and OTHER respondents, implying there isn't a signifcant difference between their results.  This falls into line with the graph generated above, which depicted the responses of these two groups in nearly identical proportions.  It is apparent that the choice to include the na.omit code created statistical discrepancies in our data.   
+ 
  
 
 # Discussion and Conclusion
