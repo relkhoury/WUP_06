@@ -166,8 +166,11 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 ```
 
 ```{r}
-fisherXY(mydata$cappun,mydata$race)
+fisherXY(mydata$cappun,mydata$race, printAll = TRUE)
 ```
+ The p-value obtained from the Chi-Square test was less than .05; to investigate our results further, we will run a FisherXY test.
+ 
+ 
  
 
 # Discussion and Conclusion
