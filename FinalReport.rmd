@@ -46,6 +46,12 @@ If not, then whose view differs from whom??
 
 
 
+
+
+
+
+
+
 ## Now with The Most data (fewer variables gives more data points)
 
 ```{r}
@@ -68,6 +74,17 @@ basicCC + geom_bar(stat="identity", position = "dodge")
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+
+
+
+
+
+
+
+
+
+
+
 
 
 
