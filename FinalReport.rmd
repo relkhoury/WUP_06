@@ -75,6 +75,7 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
+Because the sample size of white persons surveyed is significantly higher compared to other groups, whites hold the highest "favor" and "oppose" proportions, according to the second table.  Examining the table corroborates thee findings from the earlier graphs; whites favor capital punishment among themselves.  Blacks seem to oppose it by slim margins, and "other" groups generally somewhat support it by larger percentages.  
 
 ## Inferential Results
 
