@@ -109,6 +109,6 @@ Running the FisherXY test yields p-values less than 0.05 between all groups (Whi
 
 When combining our assessments of our graphical, tabular, and inferential data, it is fair to assert that race affects one's opinion on capital punishment.  Clearly, white people seem to support capital punishment in proportions larger than black or other citizens (the percentages among the black and other groups are mixed, at best).  Much of this was established through the graphs and tables generated, but was solidified by the FisherXY test at the end.
 
-Compared to branch2, the master branch omitted all 
+Compared to branch2, the master branch omitted all tabulations of data that might include an "NA".  Because of this, there was more useful data that could be analyzed, thus leading to more accurate results.
 
 
