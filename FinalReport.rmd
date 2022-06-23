@@ -98,7 +98,7 @@ fisherXY(mydata$cappun,mydata$race)
 Because the p-value with the initial Chi-Square test is so low, we will run a FisherExact test to gain more information. 
 
 
-Running the FisherXY test yields p-values less than 0.05 between all groups (White/Black, WHITE/OTHER, BLACK/OTHER), implying that there is a significant difference between all of these groups.  The p-value indicates the probability of obtaining certain results wholly due to chance; the smaller it is, the less likely the data in question was "random".  With this statistic, we can reject the null hypothesis in favor of the alternate hypothesis.  
+Running the FisherXY test yields p-values less than 0.05 between all groups (White/Black, WHITE/OTHER, BLACK/OTHER), implying that there is a significant difference between all of these groups.  The p-value indicates the probability of obtaining certain results wholly due to chance; the smaller it is, the less likely the data in question was "random".  With this statistic, we can reject the null hypothesis in favor of the alternate hypothesis.    
  
  
  
@@ -108,5 +108,7 @@ Running the FisherXY test yields p-values less than 0.05 between all groups (Whi
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 When combining our assessments of our graphical, tabular, and inferential data, it is fair to assert that race affects one's opinion on capital punishment.  Clearly, white people seem to support capital punishment in proportions larger than black or other citizens (the percentages among the black and other groups are mixed, at best).  Much of this was established through the graphs and tables generated, but was solidified by the FisherXY test at the end.
+
+
 
 
