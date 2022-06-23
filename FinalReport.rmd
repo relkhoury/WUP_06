@@ -181,7 +181,7 @@ Running the FisherXY test generates p-values lesser than .05 for the comparisons
 
 When cumulatively examining our data, it's clear that there also exists a tangible and significant difference between race and view on capital punishment, too.  The only difference between this branch and the previously discussed master branch is that there was no valid statistical difference found between WHITE and OTHER respondents in the study, though the data was the exact same.  
 
-
+The choice not to omit the "NA" containing responses in this branch's code left reams of useless data that contributed only in further convoluting our results.  This marginal edit in our code skewed the results in our tables and later inferential tests, essentially providing a less convincing response to the question posed at the beginning of the analysis.  
 
 
 
